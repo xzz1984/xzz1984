@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarsonXyg&show_icons=true&locale=en&layout=compact&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" alt="CarsonXyg" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=CarsonXyg&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="CarsonXyg" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CarsonXyg&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" alt="CarsonXyg" /> </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CarsonXyg&" alt="CarsonXyg" /></p>
 
