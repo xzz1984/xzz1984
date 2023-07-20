@@ -7,11 +7,11 @@
 - :heart: Thank you very much !
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarsonXyg&show_icons=true&layout=compact&theme=radical" alt="CarsonXyg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarsonXyg&show_icons=true&layout=compact&theme=radical" alt="CarsonXyg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CarsonXyg&show_icons=true&theme=radical&hide_title=true" alt="CarsonXyg" /> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CarsonXyg&theme=radical" alt="CarsonXyg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CarsonXyg&theme=radical" alt="CarsonXyg" /></p>
 
 
 <!--
